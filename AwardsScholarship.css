@@ -1,0 +1,33 @@
+.mainpage {
+    animation: transitionIn 1s;
+    width: 100%;
+    font-family: 'Muli', cursive;
+    font-size: 20px;
+}
+
+.mainpage .achievements {
+    width: 42%;
+    font-size: 25px;
+    float: left;
+    color: rgb(70, 73, 77);
+    margin-left: 30px;
+    margin-top: 30px;
+    padding-top: 50px;
+}
+
+.mainpage .achievement-img {
+    float: left;
+    width: 40%;
+    height: 700px;
+    padding-top: 30px;
+}
+
+
+
+.carousel {
+    width: 540px;
+    height: 420px;
+    margin-left: 40%;
+    margin-right: auto;
+}
+

@@ -1,0 +1,27 @@
+.style-table {
+    display: flex;
+    justify-content: center;
+    font: 'Muli', sans-serif;
+    font-size: large;
+    padding: 150px;
+}
+
+.style-table th {
+    background-color: rgba(151, 24, 31, 0.39);
+    color: #ffffff;
+}
+
+.style-table td,
+th {
+    padding: 12px 15px;
+}
+
+.style-table tr {
+    border-bottom: 1px solid #0a0a0a;
+    background-color: rgba(151, 24, 31, 0.39);
+    color: rgb(70, 73, 77);
+}
+
+/* .style-table tr:nth-of-type(even) {
+    
+} */
